@@ -1,0 +1,23 @@
+form{
+    background-image: linear-gradient(black,white);
+}
+table th{
+    color: white;
+    padding: 5px;
+    padding-bottom: 15px;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+table td{
+    font-family: 'Cinzel', serif;
+}
+input{
+    text-align: center;
+}
+button{
+    font-family: 'Source Serif Pro', serif;   
+}
